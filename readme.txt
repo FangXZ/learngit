@@ -1,4 +1,4 @@
 git is a version control system
-free software
+software
 
 change txt
